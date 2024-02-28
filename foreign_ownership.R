@@ -1,7 +1,11 @@
 install.packages("tidyverse")
 install.packages("janitor")
+install.packages("usethis")
+
 library(tidyverse)
 library(janitor)
+library(usethis)
+library(sf)
 
 # Import raw data
 
